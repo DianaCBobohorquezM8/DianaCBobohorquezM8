@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diana Carolina 
 - 👀 I’m interested in technology and innovation
-- 🌱 I’m currently learning Programming with Alura-Oracle
+- 🌱 I'm currently learning Data analyst
 - 💞️ I’m looking to collaborate on Technology and Administration
 - 📫 How to reach me www.linkedin.com/in/diana-c-bohorquez-m-bb70a2108
 - 😄 Pronouns: Diana C Bohorquez M
